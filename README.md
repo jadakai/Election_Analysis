@@ -44,7 +44,7 @@ The Colorado Board of Elections has asked me to complete and audit of their loca
 7. Winner of congressional election:
     - Diana DeGette
 
-![]()
+![](resources/election_analysis.png)
 
 ## Summary
 
